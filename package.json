@@ -1,7 +1,7 @@
 {
   "name": "latexwriting",
   "displayName": "LaTeX Writing",
-  "description": "todo",
+  "description": "Under-construction collection of notes and utilities for academic writing with LaTeX",
   "version": "0.0.1",
   "icon": "images/mainIcon512.png",
   "author": {
@@ -12,10 +12,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hari64boli64/latexlint"
+    "url": "https://github.com/hari64boli64/latexwriting"
   },
   "bugs": {
-    "url": "https://github.com/hari64boli64/latexlint/issues",
+    "url": "https://github.com/hari64boli64/latexwriting/issues",
     "email": "hari64boli64@gmail.com"
   }
 }
