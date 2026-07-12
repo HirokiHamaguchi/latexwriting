@@ -1,0 +1,16 @@
+.vscode-test/
+*/__pycache__
+
+out
+dist
+node_modules
+
+**/**.dvi
+**/**.out
+**/**.aux
+**/**.aux
+**/**.log
+**/**.blg
+**/**.synctex.gz
+
+secret

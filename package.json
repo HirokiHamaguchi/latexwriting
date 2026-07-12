@@ -1,0 +1,21 @@
+{
+  "name": "latexwriting",
+  "displayName": "LaTeX Writing",
+  "description": "todo",
+  "version": "0.0.1",
+  "icon": "images/mainIcon512.png",
+  "author": {
+    "name": "Hiroki Hamaguchi",
+    "email": "hari64boli64@gmail.com"
+  },
+  "publisher": "hari64boli64",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hari64boli64/latexlint"
+  },
+  "bugs": {
+    "url": "https://github.com/hari64boli64/latexlint/issues",
+    "email": "hari64boli64@gmail.com"
+  }
+}
