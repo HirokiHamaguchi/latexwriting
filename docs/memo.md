@@ -1,5 +1,10 @@
 # memo
 
+## However の多用
+
+科学論文では `However` を安易に多用せず、削除、文中への移動、または文意に合う対比・要約表現への置き換えを検討する。
+参考: https://note.com/nutrepi/n/nd4fa8f746592
+
 ## LaTeX入門サイト
 
 https://www.learnlatex.org/ja/
